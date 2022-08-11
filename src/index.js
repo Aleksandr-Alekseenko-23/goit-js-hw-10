@@ -62,7 +62,7 @@ function renderCountryInfo(countries) {
     .join('');
   countryInfoRef.innerHTML = markup;
 }
-
+// aaa
 function clearList() {
   countryInfoRef.innerHTML = '';
   countryListRef.innerHTML = '';
